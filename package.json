@@ -1,0 +1,10 @@
+{
+  "name": "bom-radar-card",
+  "version": "0.1.0",
+  "description": "A rain radar card using the new tiled images from the Australian BOM",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
