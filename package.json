@@ -1,6 +1,6 @@
 {
   "name": "bom-radar-card",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "description": "A rain radar card using the new tiled images from the Australian BOM",
   "main": "src/index.ts",
   "scripts": {
